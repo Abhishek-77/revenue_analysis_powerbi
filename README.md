@@ -5,17 +5,18 @@ This project helps ITC Hotels to gain deeper insights into its financial perform
 ## 📌 Table of Contents
 
 - <a href="#overview">Overview</a>
-- <a href="#Business_Challange">Business Challange</a>
-- <a href="#Dataset">Dataset</a>
-- <a href="#Tools & Technologies">Tools & Technologies</a>
-- <a href="#Key_Findings">Key Findings</a>
-- <a href="#Suggestion">Suggestion</a>
-- <a href="#ITC_Hotels_Dashboard">McDonald's Dashboard</a>
+- <a href="#business_Challange">Business Challange</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools_technologies">Tools & Technologies</a>
+- <a href="#key_findings">Key Findings</a>
+- <a href="#suggestion">Suggestion</a>
+- <a href="#ITC_hotels_dashboard">ITC Hotels Dashboard</a>
+
 
 <br><br>  
 
-## 🏨 Overview
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+
+<h2><a class="anchor" id="overview"></a>🏨 Overview</h2> 
 
 This project focuses on designing and developing an **interactive, multi-page Power BI dashboard** that provides a holistic view of **ITC Hotels’ business performance**.  
 
@@ -26,9 +27,11 @@ The dashboard enables stakeholders to explore and monitor key business areas, in
 - *Room Category Performance & Booking Insights*  
 - *Cancellations & Lost Revenue Analysis*  
 
+
 <br><br> 
 
-## 🧩 Business Challenge
+
+<h2><a class="anchor" id="business_Challange"></a>🧩 Business Challenge</h2>
 
 ITC Hotels, a luxury hospitality chain, operates multiple properties with diverse room categories and varying occupancy rates.  
 The company aims to gain deeper insights into its **financial performance**, **booking behavior**, and **occupancy trends** to strengthen its revenue strategy and enhance guest experience.
@@ -69,16 +72,20 @@ This project addresses the following key business questions:
 
 By answering these questions, the project aims to deliver actionable insights that help ITC Hotels **optimize revenue**, **reduce cancellations**, and **improve operational efficiency**.
 
+
 <br><br>    
 
-## 🗂️ Dataset
+
+<h2><a class="anchor" id="dataset"></a>🗂️ Dataset</h2>
 
 This project uses multiple **CSV files** stored in the `/data/` folder.  
 The data includes details about hotel revenue, room categories, occupancy rates, and booking trends.
 
+
 <br><br>  
- 
-## ⚙️ Tools & Technologies
+
+
+<h2><a class="anchor" id="tools_technologies"></a>⚙️ Tools & Technologies</h2>
 
 This project uses the following tools for data analysis and reporting:
 
@@ -94,10 +101,23 @@ Key features:
 #### 🧑‍💻 *GitHub*
 Used for **version control** and **project documentation**.
 
+
 <br><br>   
 
-## 📊 Key Findings
 
+## 🧹🔄 Data Cleaning and Transformation
+The analysis was preceded by meticulous data preparation steps, including:
+
+-  Revenue Adjustment:
+    - Calculated retained revenue for canceled bookings.
+- Custom Calendar Table:
+    - Created custom Calendar table to act as bidgre table.
+
+
+<br><br>
+
+
+<h2><a class="anchor" id="key_findings"></a>📊 Key Findings</h2> 
 ##### 💰 Financial Overview & Revenue Performance
 ---
 - **Total Revenue:** ₹2.01 Cr  
@@ -121,10 +141,11 @@ Used for **version control** and **project documentation**.
 - **Cancellation Rate:** 24.83 %  
 - **Estimated Lost Revenue:** ₹299 M
 
+
 <br><br> 
 
-## 🧭 Suggestions & Recommendations
 
+<h2><a class="anchor" id="suggestion"></a>🧭 Suggestions & Recommendations</h2>
 ##### 💰 Revenue Optimization
 ---
 - Introduce **dynamic pricing strategies** based on demand patterns and booking windows.  
@@ -150,17 +171,10 @@ Used for **version control** and **project documentation**.
 - Expand dashboard insights to include **guest satisfaction and feedback trends**.
 
 
+<br><br>
 
 
-
-
-
-
-
-
-
-
-## 🖥️ ITC Hotels Dashboard
+<h2><a class="anchor" id="ITC_hotels_dashboard"></a>🖥️ ITC Hotels Dashboard</h2>
 ...
 
 
