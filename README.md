@@ -15,6 +15,7 @@ This project helps ITC Hotels to gain deeper insights into its financial perform
 <br><br>  
 
 ## 🏨 Overview
+<h2><a class="anchor" id="overview"></a>Overview</h2>
 
 This project focuses on designing and developing an **interactive, multi-page Power BI dashboard** that provides a holistic view of **ITC Hotels’ business performance**.  
 
