@@ -118,6 +118,7 @@ The analysis was preceded by meticulous data preparation steps, including:
 
 
 <h2><a class="anchor" id="key_findings"></a>📊 Key Findings</h2> 
+
 ##### 💰 Financial Overview & Revenue Performance
 ---
 - **Total Revenue:** ₹2.01 Cr  
@@ -146,6 +147,7 @@ The analysis was preceded by meticulous data preparation steps, including:
 
 
 <h2><a class="anchor" id="suggestion"></a>🧭 Suggestions & Recommendations</h2>
+
 ##### 💰 Revenue Optimization
 ---
 - Introduce **dynamic pricing strategies** based on demand patterns and booking windows.  
@@ -163,12 +165,6 @@ The analysis was preceded by meticulous data preparation steps, including:
 - Implement **flexible booking policies** and encourage re-scheduling instead of cancellation.  
 - Send **pre-arrival reminders** and incentives for early check-ins to minimize last-minute cancellations.  
 - Use **predictive analytics** to identify customers likely to cancel and target them with retention offers.
-
-##### 📈 Operational Insights
----
-- Regularly monitor **ADR, RevPAR, and ALOS** to measure performance efficiency.  
-- Set up **automated Power BI alerts** for sudden dips in revenue or occupancy.  
-- Expand dashboard insights to include **guest satisfaction and feedback trends**.
 
 
 <br><br>
