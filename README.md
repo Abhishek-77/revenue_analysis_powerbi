@@ -171,8 +171,10 @@ The analysis was preceded by meticulous data preparation steps, including:
 
 
 <h2><a class="anchor" id="ITC_hotels_dashboard"></a>🖥️ ITC Hotels Dashboard</h2>
-...
 
+This Power BI dashboard provides a complete overview of ITC Hotels’ business performance.
+
+📂 [View Detailed Dashboard Features →](https://github.com/Abhishek-77/revenue_analysis_powerbi/blob/main/images/README.md)
 
 
 
